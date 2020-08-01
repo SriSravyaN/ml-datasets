@@ -1,7 +1,7 @@
 # ml-datasets
 ### Machine Learning project datasets for beginners
-#### uploaded datasets or
-#### can download from the links provided below:
+#### i will upload datasets along with codes soon 
+#### meanwhile,can download from the links provided below:
 ### 1. Iris Classification  https://archive.ics.uci.edu/ml/datasets/Iris
 ### 2. house prices prediction(boston) https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 ### 3.MNIST Digit Classification https://drive.google.com/file/d/1hJiOlxctFH3uL2yTqXU_1f6c0zLr8V_K/view
